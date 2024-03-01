@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yokeshbaskaran
+- 👋 Hi, I’m Yoki
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate!
